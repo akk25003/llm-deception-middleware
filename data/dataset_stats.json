@@ -1,0 +1,25 @@
+{
+  "total": 1957,
+  "classes": {
+    "benign": {
+      "count": 1000,
+      "pct": 51.1
+    },
+    "goal_hijacking": {
+      "count": 37,
+      "pct": 1.9
+    },
+    "information_extraction": {
+      "count": 6,
+      "pct": 0.3
+    },
+    "jailbreak": {
+      "count": 27,
+      "pct": 1.4
+    },
+    "prompt_injection": {
+      "count": 887,
+      "pct": 45.3
+    }
+  }
+}
